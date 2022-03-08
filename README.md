@@ -1,3 +1,6 @@
+硬改
+硬改
+
 # Lineageos
 基于 Lineageos17.1（10.0）硬改
 
